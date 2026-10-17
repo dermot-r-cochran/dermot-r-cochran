@@ -2,7 +2,7 @@
 
 Software engineer specialising in applied AI, with a background in symbolic AI for software design.
 
-- **PhD**, IT University of Copenhagen, 2013: [*Formal Specification and Analysis of Danish and Irish Ballot Counting Algorithms*](https://researcher.itu.dk/ws/portalfiles/portal/109063637/130422_FINAL_for_PRINT_BOOK_FORMAT_dermotcochran_phd_dissertation_post_defense.pdf). Counting rules specified in Alloy and checked by SAT-based model finding; Java implementation verified against JML contracts, statically and at runtime.
+-- **PhD**, IT University of Copenhagen, 2013: [*Formal Specification and Analysis of Danish and Irish Ballot Counting Algorithms*](https://researcher.itu.dk/ws/portalfiles/portal/109063637/130422_FINAL_for_PRINT_BOOK_FORMAT_dermotcochran_phd_dissertation_post_defense.pdf). Counting rules specified in Alloy and checked by SAT-based model finding; Java implementation verified against JML contracts, statically and at runtime. JML sources: [Votail](https://github.com/FreeAndFair/Votail), from work within ITU's [DemTech](https://demtech.dk) project; the Alloy models are in the thesis appendices..
 - **MSc** Advanced Software Engineering, University College Dublin, 2007
 - **Master's** in Industrial Engineering, University College Dublin, 2003
 - **Bachelor's** in Mathematical Science, Trinity College Dublin, 1992
