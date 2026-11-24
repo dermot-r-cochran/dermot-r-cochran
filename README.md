@@ -18,3 +18,5 @@ The thesis taught one lesson that still shapes my work: software looks correct u
 - [Engineering Intelligence](https://github.com/dermot-r-cochran/engineering-intelligence): how people, repositories, evaluation frameworks and AI work together, with evidence over assertion and human judgement over automation
 
 **Elsewhere:** [Google Scholar](https://scholar.google.com/citations?user=LgLsr40AAAAJ) · [*Fian Ilchruinne*](https://fianilchruinne.com/about/#the-engineering-behind-the-record), a hard science fiction novel built on the same engineering · [dermotcochran.com](https://dermotcochran.com), nature, landscape and wildlife photography
+
+**Contact:** contact@dermotcochran.com, for readers, publishers and anyone interested in the writing, the photography or the engineering work.
